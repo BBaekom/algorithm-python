@@ -23,5 +23,3 @@ for _ in range(t):
             res.append(i)
     res.extend(reversed(tmp))
     print("".join(res))
-
-# B A P C d 
