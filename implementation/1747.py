@@ -27,4 +27,3 @@ while True:
         break
     else:
         N += 1
-
