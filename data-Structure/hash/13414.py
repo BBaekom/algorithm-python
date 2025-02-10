@@ -18,4 +18,4 @@ else:
     N = K
 
 for i in range(N):
-    print(st_num[i][0])
+    print(st_num[i][0]) 
